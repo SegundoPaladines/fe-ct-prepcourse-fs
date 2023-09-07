@@ -100,8 +100,6 @@ function doWhile(num) {
    return num;
 }
 
-console.log(doWhile(5));
-
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
 module.exports = {
    obtenerMayor,
